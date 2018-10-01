@@ -32,6 +32,35 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
+ctribe (The combatribes)
+
+daioh
+
+darius
+
+darius2
+
+dariusg
+
+darkseal
+
+
 
 continuar en:
 
+# Creditos
+
+La mayor parte del trabajo a sido realizado por otros, yo solo he cambiado los archivos de configuración
+y editado los bezel para adaptarlos a lo que necesitamos para la imagen Plata O Roms.
+
+-https://retropie.org.uk/forum/topic/18218/arcade-16-9-overlays-1920x1080/54
+- [Shaders by ghogan42](https://retropie.org.uk/forum/topic/13356/)
+- Libretro overlays: [arcade-overlays](https://github.com/libretro/arcade-overlays)
+- [Compilation by Mamehead](https://drive.google.com/file/d/0Bxhr1yQtWWz4clMycm9kYWVoWU0/view)
+- [Pack by UDb23](https://github.com/UDb23/rpie-ovl)
+- [Pack by Simbz33](https://github.com/simbz33/retropie-overlay)
+- [Pack by Derek Moore](https://www.youtube.com/user/oldstarscream)
+- [Pack by Sonkun](https://forums.libretro.com/t/over-1000-arcade-overlays/9688/)
+- Compilation for MotionBlue Raspberry Pi image
+
+Usage of these packs in a commercial product are strictly forbidden.
