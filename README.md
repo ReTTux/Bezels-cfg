@@ -32,15 +32,6 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
-circusc
-
-cninja
-
-cobracom
-
-cotton
-
-
 
 continuar en:
 
