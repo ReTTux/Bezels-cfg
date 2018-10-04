@@ -32,21 +32,14 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
-ctribe (The combatribes)
 
-daioh
-
-darius
-
-darius2
-
-dariusg
-
-darkseal
 
 
 
 continuar en:
+
+darkseal
+
 
 # Creditos
 
