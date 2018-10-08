@@ -33,63 +33,13 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
-dbreed
 
-dbz
-
-dbz2
-
-ddonpach
-
-ddp2
-
-ddragon
-
-ddragon2
-
-ddragon3
-
-demon
-
-devstors
-
-djboy
-
-dkong
-
-dkong3
-
-dkongjr
-
-docastle
-
-dogyuun
-
-donpachi
-
-dragnblz
-
-drgnunit
-
-dsaber
-
-dspirit
-
-dynablst
-
-espgal
-
-esprade
-
-f1gp2
-
-feversos
 
 
 
 continuar en:
 
-darkseal
+ga2
 
 
 # Creditos
