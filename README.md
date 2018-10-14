@@ -33,12 +33,16 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
+gunbird
+
+gunbird2
+
 
 
 
 continuar en:
 
-gradius3
+
 
 
 # Creditos
