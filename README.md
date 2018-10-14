@@ -33,19 +33,17 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
-gaiapols
 
-galaga
 
-galaxian
 
-galpanic
 
-gaunt2
 
-gauntlet
 
-gberet
+
+
+
+
+
 
 gbusters
 
