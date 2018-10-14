@@ -36,34 +36,9 @@ pendientes de probar:
 
 
 
-
-
-
-
-
-
-
-
-
-gbusters
-
-ghostb
-
-gijoe
-
-gng
-
-goldnaxe
-
-gradius3
-
-
-
-
-
 continuar en:
 
-ga2
+gradius3
 
 
 # Creditos
