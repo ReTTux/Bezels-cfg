@@ -34,26 +34,6 @@ Subir volumen a la rom de arcade rmpgwt a 40
 pendientes de probar:
 
 
-hbarrel
-
-hcastle
-
-hharry
-
-hippodrm
-
-hitice
-
-hook
-
-insectx
-
-inthunt
-
-ironhors
-
-jackal
-
 joemacr
 
 jungleh
