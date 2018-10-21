@@ -33,11 +33,16 @@ Subir volumen a la rom de arcade rmpgwt a 40
 
 pendientes de probar:
 
+kungfum
+
+lastduel
+
+
+
 
 
 continuar en:
 
-kicker
 
 
 # Creditos
